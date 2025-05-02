@@ -1,0 +1,13 @@
+# Elm
+elm-stuff/
+elm.js
+
+# OS specific
+.DS_Store
+*.log
+
+# Editor specific
+.idea/
+.vscode/
+*.swp
+*.swo
